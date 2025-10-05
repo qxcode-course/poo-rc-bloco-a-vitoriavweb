@@ -1,0 +1,16 @@
+2025-10-04 20:16:52, MOVE, v:1, k:animal, mode:PICK
+2025-10-04 20:16:56, EXEC, v:1, k:animal, mode:FREE, size:50
+2025-10-04 20:17:51, EXEC, v:1, k:animal, mode:FREE
+2025-10-04 20:18:54, EXEC, v:1, k:animal, mode:FREE
+2025-10-04 20:20:47, MOVE, v:1, k:animal, mode:BACK
+2025-10-04 20:21:47, SELF, v:1, k:animal, human:_, iagen:_, alone:7
+2025-10-04 20:22:09, MOVE, v:1, k:animal, mode:DOWN
+2025-10-04 20:22:16, MOVE, v:1, k:animal, mode:PICK
+2025-10-04 20:22:19, EXEC, v:1, k:animal, mode:FULL, rate:25, size:50
+2025-10-04 20:23:27, EXEC, v:1, k:animal, mode:FREE, size:50
+2025-10-04 20:47:50, EXEC, v:1, k:animal, mode:FULL, rate:100, size:58
+2025-10-04 20:48:41, EXEC, v:1, k:animal, mode:FULL, rate:100
+2025-10-04 20:48:45, MOVE, v:1, k:animal, mode:BACK
+2025-10-04 20:49:48, SELF, v:1, k:animal, rate:100, human:_, iagen:_, alone:4, study:90
+2025-10-04 20:56:37, MOVE, v:1, k:toalha, mode:PICK
+2025-10-04 20:56:40, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:57
